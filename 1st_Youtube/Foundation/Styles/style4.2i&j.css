@@ -1,0 +1,35 @@
+.stretch{
+  background-color: rgb(11, 119, 11);
+  color:white;
+  border-style:none;
+  font-size:21px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-right:25px;
+  padding-left:25px;
+  cursor: pointer;
+  transition:padding 1s;
+  margin-right:50px;
+}
+.stretch:hover{
+  padding-right:40px;
+  padding-left:40px;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+.shadow{
+  background-color: rgb(11, 119, 11);
+  color:white;
+  border-style:none;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-right:25px;
+  padding-left:25px;
+  cursor: pointer;
+  font-size:18px;
+  box-shadow:5px 5px 5px rgba(0,0,0,0.2);
+}
+.shadow:active{
+  margin-top:7px;
+  margin-left:5px;
+}

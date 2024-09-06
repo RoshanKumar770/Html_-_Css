@@ -1,0 +1,86 @@
+.new{
+  font-size:11px;
+  color:rgb(245, 126, 126);
+  font-weight: bold;
+  font-family:Arial;
+  text-align:center;
+  line-height:25px;
+}
+.mac{
+  font-size: 18px;
+  font-weight:bold;
+  font-family:Arial;
+  text-align:center;
+  line-height:25px;
+}
+.super{
+  font-size:35px;
+  font-weight: bold;
+  font-family:Arial;
+  text-align:center;
+  line-height:50px;
+}
+.price{
+  font-family:Arial;
+  font-size:13px;
+  text-align: center;
+  line-height:12px;
+}
+.buy{
+  background-color:rgb(15, 120, 185);
+  color:white;
+  vertical-align:top;
+  font-size:12px;
+  border-style:none;
+  border-radius:15px;
+  padding-left:13px;
+  padding-right:13px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-left:328px;
+  margin-top:10px;
+}
+.money{
+  font-size:30px;
+  margin-top:20px;
+  line-height:30px;
+}
+.curr{
+  margin-right:500px;
+  font-size:14px;
+  color: rgb(121, 111, 111);
+}
+.profit{
+  margin-right:550px;
+  color:rgb(35, 117, 35);
+  line-height:30px;
+}
+.time{
+  color: rgb(93, 86, 86);
+}
+.loss{
+  color:rgb(215, 74, 74);
+}
+p {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.tweet-header {
+  margin-bottom: 5px;
+}
+.tweet-author {
+  font-weight: bold;
+}
+.tweet-info {
+  color: rgb(100, 100, 100);
+}
+.tweet {
+  width: 600px;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+.twitter-handle {
+  color: rgb(29, 155, 240);
+}

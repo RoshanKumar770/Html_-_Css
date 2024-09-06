@@ -1,0 +1,16 @@
+.total{
+  text-align: center;
+}
+.header{
+  font-size:50px;
+  text-align: center;
+}
+.para{
+  font-size:22px;
+  line-height:10px;
+  text-align: center;
+}
+.underline{
+  text-decoration: underline;
+  font-size:22px;
+}

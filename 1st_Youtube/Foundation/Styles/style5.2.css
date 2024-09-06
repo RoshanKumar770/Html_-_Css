@@ -1,0 +1,65 @@
+.homa{
+  font-family:Tahoma;
+  font-size:25px;
+  font-weight:bold;
+}
+.sale{
+  font-family:Arial;
+  font-size:30px;
+  font-weight: bold;
+  margin-bottom:8px;
+}
+.tuesday{
+  font-family:Arial;
+  color: rgb(214, 76, 76);
+  font-size:18px;
+  font-style:italic;
+  margin-top:4px;
+}
+.html{
+  font-family:Verdana;
+  font-size:18px;
+  font-weight:bold;
+  margin-bottom:0;
+}
+.begin{
+  font-family: Verdana;
+  color: rgb(123, 119, 119);
+  margin-top:3px;
+  font-size:15px;
+}
+.course{
+  font-family: Verdana;
+  margin-top:14px;
+  width:280px;
+}
+.button{
+  background-color:rgb(56, 131, 56);
+  color:white;
+  border-style:none;
+  border-radius:5px;
+  font-size:13px;
+  padding-top:9px;
+  padding-bottom:9px;
+  padding-left:18px;
+  padding-right:18px;
+}
+.business{
+  font-family: Arial;
+  font-weight:bold;
+  font-size:25px;
+  margin-bottom:15px;
+  text-align:center;
+}
+.des{
+  font-family: Arial;
+  font-size:14px;
+  line-height:15px;
+  text-align:center;
+}
+.learn{
+  font-family: Arial;
+  font-size: 14px;
+  text-align: center;
+  color: rgb(66, 162, 221);
+}

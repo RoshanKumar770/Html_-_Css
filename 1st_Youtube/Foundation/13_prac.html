@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>13 practice</title>
+  <style>
+    .flexbox{
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 20px;
+    }
+    .column1{
+      display: flex;
+      flex-direction: row;
+      background-color:lightpink;
+      width:100px;
+      height:50px;
+      justify-content:center;
+      align-items:center;
+    }
+    .column2{
+      background-color:lightblue;
+      width:200px;
+    }
+    .item{
+      background-color:black;
+      color: white;
+    }
+
+    .flexbox2{
+      display: flex;
+      flex-direction: row;
+      height:50px;
+    }
+    .nothing{
+      width:100px;
+      background-color: lightpink;
+    }
+    .rows{
+      background-color: lightblue;
+      width:200px;
+    }
+    .second{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    .row2{
+      background-color: black;
+      color: white;
+    }
+  </style>
+    <body>
+      <div class="flexbox">
+        <div class="column1">
+          <div class="item">item1
+          </div>
+        </div>
+        <div class="column2"></div>
+      </div>
+
+
+      <div class="flexbox2">
+        <div class="nothing"></div>
+        <div class="rows">
+          <div>row1</div>
+          <div class="second">
+          <div class="row2">row2</div>
+          <div class="row2">row2</div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </head>
+</html>
